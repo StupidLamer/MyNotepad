@@ -1,2 +1,0 @@
-# Assembly app with default conf
-pyinstaller  -i "C:\Users\grigory\Desktop\python\MyNotepad\compil\icon.ico" main.py
